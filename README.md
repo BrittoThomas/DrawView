@@ -1,2 +1,2 @@
 # DrawView
-[]!(Scrren Shot.png)
+[]!(Screen Shot.png)
